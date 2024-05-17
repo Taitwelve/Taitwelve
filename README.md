@@ -1,4 +1,9 @@
-### Hi there 👋
+Seja bem vindo ao meu perfil de desenvolvedora 👩🏾‍💻🤍
+
+Estou começando os meus trabalhos nessa rede, sinta-se livre para comenta, compartilhar e testar meus projetos, vai ser um prazer aprender e aumentar meus conhecimentos através dessa plataforma com a ajuda do seu conhecimento!
+
+Bora codaaaar! 🚀 
+
 
 <!--
 **Taitwelve/Taitwelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
