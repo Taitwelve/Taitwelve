@@ -1,9 +1,13 @@
-### <h2>Hello DEV, eu sou Taiane Nascimento!
-Sejam bem vindos ao meu perfil de desenvolvedora 👩🏾‍💻🤍<h2> 
+### <h2>Hello DEV, eu sou Taiane Nascimento 👩🏾‍💻🤍
+Sejam bem vindos ao meu perfil de desenvolvedora!<h2> 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taitwelve&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/taitwelve/github-readme-stats#gh-dark-mode-only)
+<a href="https://github.com/taitwelve/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=taitwelve&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/taitwelve/convoychat">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taitwelve&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=radical" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taitwelve&layout=compact&theme=radical#gh-dark-mode-only)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,6 +15,7 @@ Sejam bem vindos ao meu perfil de desenvolvedora 👩🏾‍💻🤍<h2>
   <img align="center" alt="Tai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tai-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+<img align="center" alt="Tai-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 ###
